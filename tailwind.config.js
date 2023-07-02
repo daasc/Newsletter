@@ -12,7 +12,10 @@ export default {
       "charcoal-grey": "hsl(235, 18%, 26%)",
       grey: "hsl(231, 7%, 60%)",
       white: "hsl(0, 0%, 100%)",
-      background: 'rgba(54,56,77,255)'
+      background: 'rgba(54,56,77,255)',
+      error: '#f2cfc9',
+      'back-error': '#ffe8e6',
+      'text-error': '#ec7771'
     },
     extend: {},
   },
